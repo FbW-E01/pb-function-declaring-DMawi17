@@ -16,7 +16,7 @@ const multiplier = function (p, q) {
     console.log(p * q);
 };
 
-multipleier (2, 3);
+multiplier (2, 3);
 
 // #### 3. Multiply - Arrow Function
 // * Rework the syntax of the function declaration so that is uses the arrow function shorthand.
